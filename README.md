@@ -5,7 +5,7 @@
 - <h3 align="left">💻 Por el momento estoy aprendiendo:</h3>
 <p align="left"><a href="https://nodejs.org/es/" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logo.svg" alt="NodeJS" width="40" height="40"/> </a>
 
-- CONTACTAME: 📩sergiopgodoy23@gmail.com
+- CONTACT: 📩sergiopgodoy23@gmail.com
 
 
 <h3 align="left">Mis Skills:</h3>
